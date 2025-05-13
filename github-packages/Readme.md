@@ -1,6 +1,6 @@
-export GH_USERNAME='andrew-wc-brown'
+export GH_USERNAME='linhtran22'
 export GH_TOKEN=''
-GH_IMAGE_NAME='hello-world'
+export GH_IMAGE_NAME='hello-world'
 export GH_VER='1.0.0'
 export TAG_NAME="ghcr.io/$GH_USERNAME/$GH_IMAGE_NAME:$GH_VER"
 
